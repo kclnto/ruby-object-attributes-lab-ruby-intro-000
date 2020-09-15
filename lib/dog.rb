@@ -10,11 +10,12 @@ class Dog
   end
 
 
-  def set_breed(breed)
-    @breed  = breed
+  def breed
+    @breed
   end
   
   
+  def breed=()
 
 
 end
