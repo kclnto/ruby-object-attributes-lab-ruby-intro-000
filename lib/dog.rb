@@ -1,7 +1,7 @@
 class Dog
   
   
-  def set_name(dog_name)
+  def set_name(name)
     puts dog_name
   end
 
