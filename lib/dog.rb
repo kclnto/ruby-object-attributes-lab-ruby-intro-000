@@ -11,8 +11,11 @@ class Dog
   end
 
 
-  def breed 
+  def set_breed 
   end
+  
+  def 
+  
 
 
 end
