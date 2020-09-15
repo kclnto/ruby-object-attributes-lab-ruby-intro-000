@@ -2,7 +2,7 @@ class Dog
   
   
   def set_name(name)
-    puts dog_name
+    @name = name
   end
 
 
