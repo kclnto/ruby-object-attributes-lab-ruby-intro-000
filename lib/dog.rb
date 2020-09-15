@@ -1,5 +1,9 @@
 class Dog
 
+
+  def set_name(name)
+  end
+
   
   def name
     @name
